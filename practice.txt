@@ -7,3 +7,6 @@ Git is installed on your computer. Github is a websiite. Why do you need both?
 
 B) Github stores backups and data.
 
+You edited 3 files: homework.py, notes.txt, and config.json. You  only want to commit homework.py.
+What commands do you run?
+D.) git commit -m "message" then git push homework.py
