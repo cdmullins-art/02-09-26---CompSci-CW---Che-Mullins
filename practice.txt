@@ -10,3 +10,5 @@ B) Github stores backups and data.
 You edited 3 files: homework.py, notes.txt, and config.json. You  only want to commit homework.py.
 What commands do you run?
 D.) git commit -m "message" then git push homework.py
+
+https://github.com/cdmullins-art/02-09-26---CompSci-CW---Che-Mullins.git
